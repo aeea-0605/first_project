@@ -1,1 +1,3 @@
-# first_project
+# EDA project
+
+[EDA 1 - NAVER WEBTOON](EDA%20project%2018df19784d3b4e6594bcca7d55c28ca5/EDA%201%20-%20NAVER%20WEBTOON%20e121e8a960ce4f19a9df68e009566cf9.md)
